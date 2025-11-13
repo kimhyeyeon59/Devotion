@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e723e02a27933aa4f9a4ceba9631a63a, type: 3}
+  m_Name: Village_Talk2
+  m_EditorClassIdentifier: 
+  dialogueName: "\uC9D1 \uC55E\uC5D0\uC11C \uB300\uC0AC"
+  lines:
+  - speaker: 
+    content: "(\uC5EC\uAE30\uC11C \uBAA8\uB9B0\uACFC \uD568\uAED8 \uC0B4\uC558\uB2E4.)"
+    portrait: {fileID: -4058797621661292805, guid: 04a97d68286e3b44c852a5290e80d1bf,
+      type: 3}
+  - speaker: 
+    content: "(\uC5B4\uBA38\uB2C8\uC640 \uC544\uBC84\uC9C0\uB294 \uB0B4\uAC00 14\uC0B4
+      \uB54C \uC0AC\uACE0\uB85C \uB3CC\uC544\uAC00\uC168\uB2E4.)"
+    portrait: {fileID: -4058797621661292805, guid: 04a97d68286e3b44c852a5290e80d1bf,
+      type: 3}
+  - speaker: 
+    content: "(\uBAA8\uB9B0\uC740 \uBD80\uBAA8\uB2D8\uC744 \uC5EC\uC758\uACE0 \uB098\uC11C
+      \uAC74\uAC15\uC774 \uC545\uD654\uB418\uAE30 \uC2DC\uC791\uD588\uACE0, \uAE09\uAE30\uC57C
+      \uC5B4\uB5A0\uD55C \uC57D\uC73C\uB85C\uB3C4 \uCE58\uB8CC\uAC00 \uBD88\uAC00\uB2A5\uD558\uB2E4\uB294
+      \uC9C4\uB2E8\uC744 \uBC1B\uC558\uB2E4.)"
+    portrait: {fileID: -4058797621661292805, guid: 04a97d68286e3b44c852a5290e80d1bf,
+      type: 3}
+  - speaker: 
+    content: "(\uD558\uC9C0\uB9CC \uB098\uB294 \uC5EC\uB3D9\uC0DD\uC744 \uD3EC\uAE30\uD560
+      \uC218 \uC5C6\uC5C8\uB2E4. \uB3C8\uC744 \uBC8C\uAE30 \uC704\uD574 \uC655\uC131\uAE30\uC0AC\uB2E8\uC5D0
+      \uC9C0\uC6D0\uD588\uACE0 \uBAA8\uB9B0\uC744 \uC5EC\uAE30 \uD640\uB85C \uB454
+      \uCC44 \uB5A0\uB0AC\uB2E4.)"
+    portrait: {fileID: -4058797621661292805, guid: 04a97d68286e3b44c852a5290e80d1bf,
+      type: 3}
+  - speaker: 
+    content: "\uBAA8\uB9B0.. \uB108\uB294 \uC5B4\uB514\uC5D0 \uAC04 \uAC70\uC57C"
+    portrait: {fileID: -4058797621661292805, guid: 04a97d68286e3b44c852a5290e80d1bf,
+      type: 3}
+  - speaker: 
+    content: "\uAC11\uC791\uC2A4\uB7FD\uAC8C \uB0B4\uB824\uC9C4 \uD30C\uACAC\uC784\uBB34\uC5D0
+      \uD3B8\uC9C0\uB3C4 \uB0A8\uAE30\uC9C0 \uBABB\uD558\uACE0 \uC790\uB9AC\uB97C
+      \uBE44\uC6E0\uC9C0\uB9CC.. \uADF8 \uC0AC\uC774\uC5D0 \uC774\uB7F0 \uBB34\uBAA8\uD55C
+      \uD589\uB3D9\uC744 \uD560 \uC904\uC774\uC57C"
+    portrait: {fileID: -4058797621661292805, guid: 04a97d68286e3b44c852a5290e80d1bf,
+      type: 3}
+  - speaker: 
+    content: "\uBAA8\uB9B0\uC744 \uCC3E\uC73C\uB7EC \uC655\uC131 \uCABD\uC73C\uB85C
+      \uAC00\uC790. \uC5EC\uAE30\uC11C \uB3D9\uCABD\uC73C\uB85C \uAC00\uBA74 \uC655\uC131\uC5D0
+      \uB3C4\uCC29\uD560 \uC218 \uC788\uC744 \uAC70\uC57C"
+    portrait: {fileID: -4058797621661292805, guid: 04a97d68286e3b44c852a5290e80d1bf,
+      type: 3}

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e723e02a27933aa4f9a4ceba9631a63a, type: 3}
+  m_Name: Village_NPC12
+  m_EditorClassIdentifier: 
+  dialogueName: Village_Talk
+  lines:
+  - speaker: "\uB85C\uC6F0"
+    content: "\uC9C4\uC791\uC5D0 \uB5A0\uB0AC\uC5B4\uC57C \uD588\uB294\uB370 \uB108\uBB34
+      \uAFB8\uBB3C\uAC70\uB838\uC5B4"
+  - speaker: "\uACE0\uB4DC\uB9AD"
+    content: "\uC77C\uC774 \uC774\uB807\uAC8C \uB420 \uC904\uC740 \uBAB0\uB790\uC9C0"
+  - speaker: "\uB85C\uC6F0"
+    content: "\uC6B0\uB9AC\uB3C4 \uBAAC\uC2A4\uD130\uD55C\uD14C \uAC1C\uC8FD\uC74C\uB2F9\uD558\uAE30
+      \uC804\uC5D0 \uBE68\uB9AC \uC11C\uCABD\uC73C\uB85C \uAC00\uC790\uACE0"
+  - speaker: "\uACE0\uB4DC\uB9AD"
+    content: "\uC138\uC0C1\uC774 \uC5B4\uCC0C \uB420\uB828\uC9C0.."

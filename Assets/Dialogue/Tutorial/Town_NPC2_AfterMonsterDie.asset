@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e723e02a27933aa4f9a4ceba9631a63a, type: 3}
+  m_Name: Town_NPC2_AfterMonsterDie
+  m_EditorClassIdentifier: 
+  dialogueName: Town_NPC2_AfterMonsterDie
+  lines:
+<<<<<<< HEAD
+  - speaker: "\uAC80\uC744 \uB4E0 \uC8FC\uBBFC"
+    content: "\uC9C4\uC9DC \uACE0\uB9C8\uC6CC"
+  - speaker: 
+    content: "\uC774\uC81C \uAD1C\uCC2E\uC744 \uAC70\uC5D0\uC694"
+=======
+  - speaker: "\uAC80\uC744 \uB4E0 \uB0A8\uC131"
+    content: "\uC9C4\uC9DC \uACE0\uB9C8\uC6CC"
+    portrait: {fileID: 0}
+  - speaker: 
+    content: "\uC774\uC81C \uAD1C\uCC2E\uC744 \uAC70\uC5D0\uC694. \uB450 \uBD84\uC740
+      \uC5B4\uB514\uB85C \uAC00\uB358 \uAE38\uC774\uC168\uB098\uC694?"
+    portrait: {fileID: -4058797621661292805, guid: 04a97d68286e3b44c852a5290e80d1bf,
+      type: 3}
+  - speaker: "\uAC80\uC744 \uB4E0 \uB0A8\uC131"
+    content: "\uC6B0\uB9B0 \uC774 \uB098\uB77C\uB97C \uB5A0\uB098\uB824\uACE0 \uAC00\uB294
+      \uC911\uC774\uC57C. \uC655\uC131\uC5D0\uC11C\uB294 \uC774 \uBB38\uC81C\uB97C
+      \uC5B4\uB5BB\uAC8C \uBCF4\uB294\uAC74\uC9C0 \uD574\uACB0\uD558\uB824\uACE0
+      \uB4E4\uC9C0\uB3C4 \uC54A\uB294 \uAC83 \uAC19\uC544. \uD3D0\uD558\uB294 \uB3C4\uB300\uCCB4
+      \uBB34\uC2A8 \uC0DD\uAC01\uC744 \uD558\uACE0 \uACC4\uC2DC\uB294\uAC74\uC9C0.."
+    portrait: {fileID: 0}
+  - speaker: "\uAC80\uC744 \uB4E0 \uB0A8\uC131"
+    content: "\uC774\uB807\uAC8C\uB294 \uC624\uB798 \uBABB \uC0B4 \uAC83 \uAC19\uC544\uC11C
+      \uB9D0\uC774\uC9C0. \uADF8\uB7EC\uACE0\uBCF4\uB2C8 \uD0C0\uC9C0\uC5D0\uC11C
+      \uC624\uB294 \uAE38\uC774\uC57C?"
+    portrait: {fileID: 0}
+  - speaker: 
+    content: "\uB124. \uAE09\uD558\uAC8C \uD30C\uACAC\uC744 \uB098\uAC14\uB2E4\uAC00
+      \uB3CC\uC544\uC654\uB294\uB370.. \uC81C \uC5EC\uB3D9\uC0DD\uACFC \uC5F0\uB77D\uC774
+      \uC81C\uB300\uB85C \uB2FF\uC9C8 \uC54A\uC544\uC11C \uACE0\uD5A5\uC73C\uB85C
+      \uB0B4\uB824\uAC00\uB294 \uAE38\uC774\uC5D0\uC694."
+    portrait: {fileID: -4058797621661292805, guid: 04a97d68286e3b44c852a5290e80d1bf,
+      type: 3}
+  - speaker: 
+    content: "\uD639\uC2DC \uD504\uB9AC\uB9C8\uC5D0 \uB9C8\uC744\uC5D0 \uB300\uD55C
+      \uC18C\uC2DD\uC744 \uC544\uC2DC\uB098\uC694?"
+    portrait: {fileID: 965735908621121302, guid: 8432ec9c410777b45bc19611445bbb8f,
+      type: 3}
+  - speaker: "\uAC80\uC744 \uB4E0 \uB0A8\uC131"
+    content: "\uD760.. \uD504\uB9AC\uB9C8\uC5D0 \uB9C8\uC744? \uBBF8\uC548\uD558\uC9C0\uB9CC
+      \uADF8\uB7F0 \uB9C8\uC744\uC5D0 \uB300\uD55C \uC598\uAE30\uB294 \uB4E4\uC5B4\uBCF8
+      \uC801 \uC5C6\uB294\uAC78."
+    portrait: {fileID: 0}
+  - speaker: 
+    content: "\uADF8\uB807\uAD70\uC694. \uC54C\uB824\uC8FC\uC154\uC11C \uAC10\uC0AC\uD569\uB2C8\uB2E4.
+      \uAC00\uC2DC\uB294 \uAE38\uC774 \uD3C9\uC548\uD558\uC2DC\uAE38 \uBC14\uB784\uAC8C\uC694."
+    portrait: {fileID: -4058797621661292805, guid: 04a97d68286e3b44c852a5290e80d1bf,
+      type: 3}
+  - speaker: "\uAC80\uC744 \uB4E0 \uB0A8\uC131"
+    content: "\uB2E4\uC2DC \uD55C \uBC88 \uC6B0\uB9B4 \uB3C4\uC640\uC918\uC11C \uC815\uB9D0
+      \uACE0\uB9C8\uC6CC. \uC5EC\uB3D9\uC0DD\uC744 \uAF2D \uCC3E\uAE38 \uBC14\uB784\uAC8C."
+    portrait: {fileID: 0}
+  - speaker: 
+    content: "(\uC6B0\uC120 \uB9C8\uC744\uB85C \uAC00\uBCF4\uB294 \uAC83\uC774 \uC88B\uACA0\uB2E4.
+      \uC774\uB300\uB85C \uCB49 \uAC00\uBA74 \uB9C8\uC744\uC774 \uB098\uC62C \uAC70\uC57C.)"
+    portrait: {fileID: 965735908621121302, guid: 8432ec9c410777b45bc19611445bbb8f,
+      type: 3}
+>>>>>>> 20f578124 (20251112)

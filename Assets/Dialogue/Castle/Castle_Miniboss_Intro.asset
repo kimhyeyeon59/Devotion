@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e723e02a27933aa4f9a4ceba9631a63a, type: 3}
+  m_Name: Castle_Miniboss_Intro
+  m_EditorClassIdentifier: 
+  dialogueName: Miniboss_Intro
+  lines:
+  - speaker: "\uC5B4\uB460\uC758 \uC8FC\uC220\uC0AC"
+    content: "\uBC29\uD574\uAC00 \uB418\uB294 \uC778\uAC04\uC774 \uC544\uC9C1\uAE4C\uC9C0
+      \uB0A8\uC544\uC788\uC5C8\uAD6C\uB098.."
+    portrait: {fileID: 0}
+  - speaker: "\uC5B4\uB460\uC758 \uC8FC\uC220\uC0AC"
+    content: "\uADF8\uBD84\uC758 \uACC4\uD68D\uC5D0 \uCC28\uC9C8\uC774 \uC0DD\uACA8\uC11C\uB294
+      \uC548 \uB420 \uB178\uB987"
+    portrait: {fileID: 0}
+  - speaker: "\uC5B4\uB460\uC758 \uC8FC\uC220\uC0AC"
+    content: "\uB2E8\uC228\uC5D0 \uBCF4\uB0B4\uC8FC\uC9C0"
+    portrait: {fileID: 0}

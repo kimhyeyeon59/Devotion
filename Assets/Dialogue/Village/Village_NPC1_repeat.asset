@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e723e02a27933aa4f9a4ceba9631a63a, type: 3}
+  m_Name: Village_NPC1_repeat
+  m_EditorClassIdentifier: 
+  dialogueName: hatman repeat
+  lines:
+  - speaker: "\uB85C\uC6F0"
+    content: "\uC548\uC804\uD558\uAC8C \uAC08 \uC218 \uC788\uC73C\uB824\uB098.."
+    portrait: {fileID: -25169388900506376, guid: f12422bc291a35f4e8e36de8a5989813,
+      type: 3}
